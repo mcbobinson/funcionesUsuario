@@ -1,0 +1,9 @@
+ESTAS FUNCIONES INCLUYEN EL USUARIO LA CREACION Y EL ACCESO,
+Y TODO LO QUE ESTA EN MIS DATOS ES DECIR QUE TRAE ESTO
+
+Menu de Inicio
+4-	Mi Perfil
+a.	Ver mis Datos
+b.	Modificiar mi datos
+c.	Eliminar mi cuenta
+d.	Regresar al Menú Principal
